@@ -21,3 +21,7 @@ print(correo_2)
 print(telefono_2)
 print(ocupacion_2)
 #==============================================================
+print("")
+print(guion * 80)
+print("Gracias por usar mi codigo, me esforcé")
+print(guion * 80)
