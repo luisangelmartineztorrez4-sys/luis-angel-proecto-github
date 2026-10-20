@@ -15,3 +15,9 @@ correo_2 = f"Le estaremos notificando las actualizaciones al correo {correo}"
 telefono_2 = f"Le estaremos contactando al numero de telefono agregado el cual es: {telefono}"
 ocupacion_2 = f"Gracias a que su ocupacion es {ocupacion}"
 #==============================================================
+print(nombre_2)
+print(direccion_2)
+print(correo_2)
+print(telefono_2)
+print(ocupacion_2)
+#==============================================================
