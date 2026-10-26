@@ -25,3 +25,43 @@ print("")
 print(guion * 80)
 print("Gracias por usar mi codigo, me esforcé")
 print(guion * 80)
+
+guion = "="
+print (guion * 60)
+print ("BIENVENIDOS A MI PROGRAMA DE CALCULO")
+print(guion * 60)
+stack = """
+EN ESTE PROGRAMA PODRAS:
+- SUMAR.
+- RESTAR.
+- MULTIPLICAR.
+- DIVIDIR.
+Sin ningun inconvenientes y al tanto de tus necesidades.
+"""
+print()
+numero1 = int(input("Por favor ingrese el primer numero a sumar: "))
+numero2 = int(input("Por favor ingrese el segundo numero a sumar: "))
+resultado_suma = numero1 + numero2 
+print(f"El resultado de la suma es igtual a: {resultado_suma}")
+# =========================================================================
+numero_resta = int(input("Por favor ingrese el primer numero a restar: "))
+numero_resta2 = int(input("Por favor ingrese el segundo numero a resta: "))
+resultado_resta = numero_resta - numero_resta2
+print(f"EL resultado de la resta es: {resultado_resta}")
+# =========================================================================
+numero_multi = int(input("Por favor ingrese el primer numero a multiplicar: "))
+numero_multi2 = int(input("Por favor ingrese el segundo numero a multiplicar:"))
+resultado_multi = numero_multi * numero_multi2
+print(f"El resultado de la multiplicación es: {resultado_multi}")
+#==========================================================================
+numero_divi = int(input("Por favor ingrese el numero a dividir: "))
+numero_divi2 = int(input("Por favor ingrese el numero a dividir: "))
+resultado_divi = numero_divi / numero_divi2
+print(f"El resultado de la división es: {resultado_divi}")
+#=========================================================================
+print()
+print(guion * 60)
+print("AQUI FINALIZA EL PROGRAMA DE CALCULO MUCHAS GRACIAS POR UTILIZARLO")
+print(guion * 60) 
+
+
