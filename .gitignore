@@ -1,0 +1,18 @@
+venv/
+env/
+ENV/
+node_modules/
+*.pyc
+__pycache__/
+.DS_Store
+build/
+dist/
+*.egg-info/
+claves y contraseñas.txt
+claves y credenciales.txt
+*.log
+*.logs
+*.tmp
+.idea/
+.vscode/
+.VSCode/
